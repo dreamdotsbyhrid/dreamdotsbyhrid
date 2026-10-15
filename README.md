@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dreamdots by Hrid — Ocean Blue static website
 
 A redesigned, collection-led art and craft website using ocean blue, dreamy light blue, white and raspberry rose accents. Your supplied horizontal raspberry logo is used unchanged in the header and footer. Supplied photographs and raster illustrations replace the earlier SVG placeholders.
@@ -139,3 +140,21 @@ Updated the hamper, rose bouquet, sunflower gift and brand banner using the late
 
 ## Latest update
 The ocean gift artwork fills its card using proportional cover cropping, without side bars. The maker subtitle is now Kozhikode, India. Worldwide shipping is shown in the promise strip and footer.
+=======
+## Hi there 👋
+
+<!--
+**dreamdotsbyhrid/dreamdotsbyhrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 8eee10dbbb6bc1836478e3995eda64974a5aec78
